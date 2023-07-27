@@ -19,8 +19,8 @@
 - :school: I am a `Junior Developer` 
 - :trophy: Winner of the mSchools Students Awards contest, for the best mobile application, together with my team (LearnTrack)
 - :technologist: **Currently working on** `Full Stack Development`
-- :boom: You can visit linkedin ([https://eliochiu.github.io](https://www.linkedin.com/in/aniol-nevado-347864238/)) for some info
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:aniolneti@gmail.com)
+- :boom: You can visit linkedin ([[https://eliochiu.github.io](https://www.linkedin.com/in/aniol-nevado-347864238/)](https://www.linkedin.com/in/aniol-nevado-347864238/)) for some info
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=offneti&amp;color=EA4335&amp;style=flat-square)](mailto:aniolneti@gmail.com)
 - 🧗‍♂️: Passionate about sports and new technologies
 
 <br>
@@ -31,6 +31,8 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
 
