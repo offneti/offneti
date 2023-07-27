@@ -20,7 +20,7 @@
 - :trophy: Winner of the mSchools Students Awards contest, for the best mobile application, together with my team (LearnTrack)
 - :technologist: **Currently working on** `Full Stack Development`
 - :boom: You can visit linkedin (https://www.linkedin.com/in/aniol-nevado-347864238/) for some info
-- :email: Feel free to **reach me out** (aniolneti@gmail.com)
+- :email: aniolneti@gmail.com
 - 🧗‍♂️: Passionate about sports and new technologies
 
 <br>
