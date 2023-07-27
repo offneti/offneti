@@ -22,7 +22,8 @@
 - :boom: You can visit linkedin (https://www.linkedin.com/in/aniol-nevado-347864238/) for some info
 - :email: aniolneti@gmail.com
 - 🧗‍♂️: Passionate about sports and new technologies
-<br>
+
+
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
