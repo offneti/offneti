@@ -20,12 +20,12 @@
 - :trophy: Winner of the mSchools Students Awards contest, for the best mobile application, together with my team (LearnTrack)
 - :technologist: **Currently working on** `Full Stack Development`
 - :boom: You can visit linkedin ([[https://eliochiu.github.io](https://www.linkedin.com/in/aniol-nevado-347864238/)](https://www.linkedin.com/in/aniol-nevado-347864238/)) for some info
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=offneti&amp;color=EA4335&amp;style=flat-square)](mailto:aniolneti@gmail.com)
+- :email: Feel free to **reach me out** (https://img.shields.io/static/v1?label=email&amp;message=offneti&amp;color=EA4335&amp;style=flat-square)](mailto:aniolneti@gmail.com)
 - 🧗‍♂️: Passionate about sports and new technologies
 
 <br>
 
-## 🛠️ My Skills
+## 🛠️ My Skillss
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
