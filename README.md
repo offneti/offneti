@@ -23,8 +23,6 @@
 - :email: aniolneti@gmail.com
 - 🧗‍♂️: Passionate about sports and new technologies
 
-<br>
-
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
