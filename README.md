@@ -14,7 +14,10 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<div align="right" width = 300px>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
+</div>
+
 
 - :school: I am a `Junior Developer` 
 - :trophy: Winner of the mSchools Students Awards contest, for the best mobile application, together with my team (LearnTrack)
@@ -23,7 +26,7 @@
 - :email: aniolneti@gmail.com
 - 🧗‍♂️: Passionate about sports and new technologies
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 ## 🛠️ My Skills
 
