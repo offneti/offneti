@@ -43,7 +43,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 -----------
-<picture> <img align="right" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offneti&show_icons=true&theme=radical)" width = 300px></picture>
+<picture> <img align="right" src="https://github-readme-stats.vercel.app/api?username=offneti&show_icons=true&theme=radical" width = 300px></picture>
 
 
 
