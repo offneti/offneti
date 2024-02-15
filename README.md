@@ -21,7 +21,7 @@
 - :school: I am a `Full Stack Developer` 
 - :trophy: Winner of the mSchools Students Awards contest, for the best mobile application, together with my team (LearnTrack)
 - :technologist: **Currently working on** `Full Stack Development`
-- :boom: You can visit linkedin (https://www.linkedin.com/in/aniol-nevado-347864238/) for some info
+- :boom: You can visit my linkedin (https://www.linkedin.com/in/aniol-nevado-347864238/) for some info
 - :email: aniolneti@gmail.com
 - 🧗‍♂️: Passionate about sports and new technologies
 
@@ -33,8 +33,8 @@
 <picture> <img align="right" src="https://github-readme-stats.vercel.app/api?username=offneti&show_icons=true&theme=radical" width = 400px></picture>
 - JavaScript
 - PHP
+- Vue.js
 - Python
-- Java
 - TypeScript
 - SQL
 - HTML
