@@ -34,7 +34,6 @@
 - JavaScript
 - PHP
 - Python
-- TypeScript
 - SQL
 - HTML
 - CSS
